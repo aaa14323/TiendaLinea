@@ -1,7 +1,0 @@
--- Usuario staff --
-Usuario: usuario
-Contraseña: contraseña
-
--- Usuario normal --
-Usuario: Alitzel
-Contraseña: !contra123
